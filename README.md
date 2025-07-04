@@ -54,6 +54,8 @@ These results indicate that while the model captures some signal during training
 
 
 # 🔧 Future Improvements
+Improvements I plan to make in the future once I get better at making machine learning models:
+
 ✅ Add moving averages, momentum indicators, and market context
 
 ✅ Implement time series cross-validation
