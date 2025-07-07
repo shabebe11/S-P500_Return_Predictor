@@ -22,9 +22,9 @@ Garman-Klass Volatility
 
 Relative Strength Index (RSI)
 
-Bollinger Bands (log-scaled)
+Bollinger Bands
 
-Average True Range (ATR) (standardised)
+Average True Range (ATR)
 
 MACD (standardised)
 
