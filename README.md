@@ -60,10 +60,6 @@ Improvements I plan to make in the future once I get better at making machine le
 
 ✅ Implement time series cross-validation
 
-✅ Use hyperparameter optimisation (e.g. GridSearchCV, Optuna)
-
-✅ Expand from single-stock to multi-stock predictions
-
 ✅ Integrate live data feeds from Yahoo Finance
 
 ✅ Explore classification tasks (e.g. predicting up/down instead of continuous returns)
